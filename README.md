@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on [@SiruBOT](https://github.com/SiruBOT)
+- 🌱 I’m currently learning Javascript, React
+- 📫 How to reach me: [Sannoob#0001](https://discordapp.com)
+
+- ⚡ Fun fact: In Javascript ``[] + []`` returns ``""``
 
 <!--
 **sannoob/Sannoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
