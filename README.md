@@ -5,6 +5,8 @@
 
 - ⚡ Fun fact: In Javascript ``[] + []`` returns ``""``
 
+[![Sannoob's Profile](https://github-readme-stats.vercel.app/api?username=Sannoob&show_icons=true&hide_border=true)](https://github.com/sannoob)
+
 <!--
 **sannoob/Sannoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
